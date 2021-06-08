@@ -1,7 +1,7 @@
 # tap-application
 Today we learned the basics of version control. 
 There are two types of version control - centralized and distributed.
-Github is an example of the former.
+Github is an example of the later
 After initializing the repository, we mainly used these commands:
 /git status
 /git add filename
